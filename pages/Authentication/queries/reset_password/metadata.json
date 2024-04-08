@@ -27,7 +27,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{\n\t\"email\": \"{{inp_emailReset.text}}\",\n}",
+      "body": "{\n\t\"email\": \"{{inp_emailReset.text}}\",\n\t\"redirectTo\": 'https://myspecialwebsite/redirect'\n}\n",
       "bodyFormData": [],
       "httpMethod": "POST",
       "httpVersion": "HTTP11",
