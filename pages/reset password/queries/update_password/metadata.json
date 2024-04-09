@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "reset_password",
+    "name": "update_password",
     "datasource": {
       "name": "auth",
       "pluginId": "restapi-plugin",
@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Authentication",
+    "pageId": "reset password",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -57,9 +57,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-04-08T06:12:35Z"
+    "createdAt": "2024-04-08T23:41:36Z"
   },
-  "id": "Authentication_reset_password",
+  "id": "reset password_update_password",
   "deleted": false,
-  "gitSyncId": "6612a2f09c54ee6461304b95_66138ad3fd162757345f8a42"
+  "gitSyncId": "6612a2f09c54ee6461304b95_661480b096afb80abba0eaf1"
 }

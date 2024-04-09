@@ -2,7 +2,7 @@
   "pages": [
     {
       "id": "Authentication",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "Home",
@@ -10,7 +10,11 @@
     },
     {
       "id": "Domains",
-      "isDefault": true
+      "isDefault": false
+    },
+    {
+      "id": "reset password",
+      "isDefault": false
     }
   ],
   "viewMode": false,
